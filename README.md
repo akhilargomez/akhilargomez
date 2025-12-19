@@ -11,7 +11,7 @@
 ---
 
 ### 🎤 Public Tech Speaker & Orator
-I specialize in translating complex engineering concepts into engaging narratives. With over 11 years of experience, I focus on:
+I specialize in translating complex engineering concepts into engaging narratives. With over 12 years of experience, I focus on:
 * **Curriculum Planning & Strategy:** Designing real-world based curricula that make complex concepts enjoyable.
 * **Design Thinking:** Applying human-centered logic to streamline technical education.
 * **Open Source Advocacy:** Utilizing open-source hardware and software to ensure tech is a universal right, not a privilege.
